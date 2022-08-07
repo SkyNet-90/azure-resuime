@@ -1,2 +1,2 @@
-# azure-resuime
+# azure-resume
 My own azure resume
