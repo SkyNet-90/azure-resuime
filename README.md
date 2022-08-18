@@ -1,5 +1,5 @@
 # azure-resume
-My own Azure resume, following [ACG project video](https://learn.acloud.guru/series/acg-projects/view/403). Created on my AMcbook Pro laptop, using [Visual Studio Code](https://code.visualstudio.com/).
+My own Azure resume, following [ACG project video](https://learn.acloud.guru/series/acg-projects/view/403). Created on my Macbook Pro laptop, using [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Software I needed for this project.
 
