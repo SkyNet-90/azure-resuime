@@ -15,6 +15,7 @@
    g. Testimonials Section
    h. Contact Section
    i. Footer
+   j. cert images format
 
 ===================================================================== */
 
@@ -1003,4 +1004,39 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+/* Certification Image Styles */
+img {
+   max-width: 100px;
+   height: auto;
+   display: block;
+   margin: 10px 0;
+}
+
+/* Cert Columns---------------------------------------------------------*/
+
+.certifications-container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.certification-item {
+   width: 48%; /* slightly less than half to allow for some spacing */
+   margin-bottom: 20px;
+}
+
+.education .nine.columns.main-col {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.education .row.item {
+   flex-basis: calc(54% - 20px); /* Adjusted for 3 columns */
+   margin-bottom: 10px;
+}
+
+
+
 
